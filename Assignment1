@@ -2,7 +2,7 @@
 <html>
 <title>Jason Roche</title>
 <head>
-<h1><center>Welcome to Me</center></h1>
+<h1 text-align: center>Welcome to Me</h1>
 <hr size=7  >
 </head>
 <body>
