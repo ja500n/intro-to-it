@@ -2,7 +2,13 @@
 <html>
 <title>Jason Roche</title>
 <head>
-<style="text-align:center;">
+<style>
+head {text-align: center}
+body {text-align: center}
+body {background-color: powderblue;}
+h1   {color: blue;}
+p    {color: red;}
+</style>
 <h1>Welcome to Me</h1>
 <hr size=7  width=4>
 </head>
