@@ -1,0 +1,168 @@
+<!doctype html>
+<html>
+<title>Jason Roche</title>
+<head>
+<style>
+head {text-align: left;}
+body {text-align: left;}
+body {background-color: BlanchedAlmond;}
+body.ex1 {
+  margin-left: 10%;}
+ul.ex2 {
+  margin-left: 20px;}
+h1   {color: Brown;}
+p    {color: SaddleBrown;}
+</style>
+<h1>Welcome to Me</h1>
+<hr size=3>
+</head>
+<body class="ex1">
+<h2>Just a quick introduction</h2>
+<p>Hi, my name is Jason Roche and I live in Wodonga but hopefully not for very much longer, not that I have any plans to move.</p>
+
+<h2>Personal Information</h2>
+<img src="startled.jpg" height=300 width=275 />
+<br>
+<ul class="ex2">
+  <li>Jason Roche</li>
+  <li>s3156969</li>
+  <li>j9roche@gmail.com</li>
+  <li>Australian of Irish descent</li>
+</ul>
+  <p>I have spent a lot of time in tertiary study, I went to acting school, did a degree in Literature, a Dip Ed, a Cert IV<br>
+in small business management, a Dip Visual Arts, an MA in Sculpture, a Grad Masters in nursing and now I'm starting a BIT.<br>
+I am particularly interested in the arts and enjoy carving stone, playing trumpet, doing stand up comedy and swing dancing.<br>
+I am 47 years old, married with no kids, the seventh of eight children. I spent many years as a sculptor, a <br>
+writer, an actor, a musician and a bookshop owner and never made made money at any of them.</p>
+
+<h2>Interest in IT</h2>
+
+  <p>I recently closed my bookshop and decided that it was time that I pursued a career in a field where I would stand a <br>
+chance of making money. I had previously enrolled in an I.T. graduate masters program at UNE then deferred because I opened the<br>
+bookshop. I got to live my dream of owning and running a bookshop and it didn't work so now I need to move on to something <br>
+with a much more promising future, that being, the world of I.T. I have always had an affinity for technology but assumed that<br>
+you had to be some kind of especially great genius to write code. A few years ago however, on the occasion of being asked again<br>
+to update Java, I started to look into this ever updatable Java. What was it and why did it need to be updated? In the process,<br>
+I started to learn a bit of Java and became fascinated with the possibilities that writing code presented. Thus here I sit <br>
+despite not being a genius I am now studying all things I.R. oops I mean I.T.</p>
+
+<h2>Ideal Job</h2>
+
+<cite>I Wish I could sit on soft pillows and drink molten lava - <b>John S Hall</b></cite>
+
+  <p>My ideal job would be one that was both challenging and rewarding and when I started along this path, I thought that job<br>
+might be working on a help desk or something, coming as I did, from a customer service background. However, I am learning<br>
+that there are many more opportunities than that available to the I.T. graduate. I am a person who likes to help people with<br>
+what I know and so still see myself as doing some kind of role where I was working to help others who were struggling to get<br>
+their I.T. to work in a way that they would understand. Now though, I think that an IT Manager on Daydream Island Resort might<br>
+be a better role because work will always be a chore so why not do your chores somewhere nice.</p>
+<img src="IT Manager - Daydream Island 1.jpg"height=671 width=550 />
+<img src="IT Manager - Daydream Island 2.jpg"height=680 width=550 />
+<img src="IT Manager - Daydream Island 3.jpg"height=718 width=550 />
+<h2>Profile</h2>
+<img src="MyersBriggsTestResults.jpg"height=750 width=550 />
+<img src="LearningStyleResults.jpg"height=750 width=550 />
+<img src="BigFiveResult.jpg"height=750 width=550 /><br>
+<br>
+<b>• What do the results of these tests mean for you?</b>
+  <p>I have a great deal of trouble with the validity of these tests and what they mean for myself and for others<br>
+around me. They are essentially a picture of how I see myself and depending on my mood that might change from day<br>
+to day. They also ask you to rate how conscientious you are and if we think of someone like Donald Trump I am sure he<br>
+would rate himself as highly conscientious but I can't imagine anyone else rating him that highly. I have a sister who <br>
+considers herself both methodical and open minded and yet I would rate her as neither. Consequently, when I come to <br>
+answering these questions I find myself unsure as to whether I am supposed to be looking at myself with a cynical eye<br>
+or with a generous eye? I feel like I live in a world of chaos and yet I embrace order whenever I can. I want to be <br>
+conscientious but I don't really know if I am or if I am fooling myself? When I read, "Are you quick to anger?"<br>
+I think, when would anyone ever say yes when answering that question for a potential employer? Many of the questions<br>
+have answers that are dependent on the situation. I am not really a moral relativist but given the right circumstance <br>
+I might forgive some terrible crimes. I guess what I am saying is that I feel psychometric tests ask questions as if<br>
+our personalities are set in stone when I think our personalities are very situational. I find myself during the test<br>
+wanting to ask someone who knows me what they think about the question as it pertains to me because I don't really <br>
+know what the honest answer is. I want to answer accurately but I don't trust my own ability to answer accurately.<br>
+Thus, I answer as honestly as I can I just don't know if you can trust that answer and if you can't trust that answer<br>
+then where is the validity in the test?</p>
+<b>• How do you think these results may influence your behaviour in a team?</b>
+  <p> Despite all this, these results have effected the way I see myself to a certain degree. I am now considering that<br>
+perhaps I have a greater ability to lead a group than I had previously thought. To a certain extent I feel that my role<br>
+in a team will be dependant on the team I am in, I guess I feel I won't know what role I will be playing until I <br>
+see the roles that the other members of my team take up. So if my team lacks a leader type personality I could <br>
+potentially step up to that role and try to offer leadership. If, however, someone easily fits into that role I am <br>
+equally happy to follow and work with them to produce the best results. I guess I see myself as a negotiable negotiator,<br>
+I want to do whatever it will take to make a group work but also fear landing in a group and not knowing my role or what<br>
+to do. I fear group work for this reason. There is a different dynamic when working in a group in a commercial situation.<br>
+I feel that roles are more clearly defined, there is no need to try and work out who is going to lead as that role has<br>
+been determined by someone else. The commercial imperative feels different from a learning environment as well. </p>
+<b>• How should you take this into account when forming a team?</b>
+  <p> I guess that we should always take into account that everyone has a version of themself that they believe to be correct<br>
+and the truth will lie somewhere in between that place and the reality that others experience when working with them.<br>
+Not that the other person's view is necessarily any more valid than your own but this grey area may need a degree of <br>
+negotiation to land in a happy place. I think most people struggle to discover they are not the person they believe themself<br>
+to be. We have often seen in the auditions for talent shows on TV that there are people who imagine themselves to be great<br>
+singers who cannot accept that they are not, despite all the evidence in front of them. We tell ourselves stories about ourselves<br>
+and don't notice what we don't want to be true. It is important when writing a story to always remember that the antagonist<br>
+in a story is never the bad guy in the story that the antagonist is telling himself.</p>
+<h2>Project Ideas</h2>
+<b>Overview</b>
+  <p> Through a combination of new hardware technology and new coding I propose to develop a product that creates a greater<br>
+tactile experience for the fine art painter wishing to take advantage of digital technology. This project would involve the<br>
+development of a screen and set of brushes that, when used together, created a tactile experience similar to that of applying<br>
+paint to a surface such as a canvas. </p>
+<b>Motivation</b>
+  <p>As an artist I have dipped my toe into the waters of digital art making but have always found it such a distant experience<br>
+that I have never pursued it further, despite the abundant and obvious advantages that digital platforms have to offer. A major<br>
+part of an artists skill base lies in their physical interaction with their media i.e. the interaction of brush, paint and surface.<br>
+They know what will happen when they apply different pressures through their brushes or through their pencils to a surface. That<br>
+skill is what makes them good at what they do and often what makes their work unique. It is also part of the reason why so many <br>
+artists avoid working in digital media. Thus I wondered if that tactile experience might be reproducible through technology and<br>
+subsequently brought to market?</p>
+<b>Description</b>
+  <p> This product would seek to create the tactile experience of fine art painting. Making use of current technology to create<br>
+the different tactile sensations a painter feels, the resistance felt when painting bare canvas through to the slip of painting<br>
+wet paint into wet paint. The brushes would only paint exactly where they touched the screen and the vibrancy of the colour<br>
+would vary according to how solidly the brush connected with the screen. There would be no undo feature just like real <br>
+painting there would need to be a palette knife tool to take away paint that the user had applied.<br>
+<br>
+The screen surface and the brush would interact to create the feeling of a brush on canvas. The screen would bow and give<br>
+like canvas. The user would have different brushes to choose from to simulate the feel of the different brushes commonly<br>
+available not just in size but in brush material like hog bristle, goat hair and sable. The user would also be able to choose<br>
+the tooth of the canvas, that is, how much the brush grips the surface as they apply the brush.<br>
+<br>
+There would be thin brushes and thick brushes to create the different thicknesses of line on the screen. There would be no<br>
+ability to choose the line thickness in the software. Part of what differentiates art from other image making is the risk of<br>
+failure in a project. It is what makes a painting generally more valuable that a photograph. The exact same photograph can<br>
+be printed again and again but a painting is very different every time it is painted. Consequently, a single print feature could<br>
+ensure there is only ever one end product. A painting is effected by the environment in which it was painted. Was the wealthy or<br>
+poor? What brushes did she have available, what paint, was he distracted, what model was available, what was the weather like.<br>
+The artist wants to work but is limited by life but technology keeps offering a world without limitation which removes some of <br>
+the pressure needed to make art, the happy accidents, the make or break factor that means you must place all your concentration <br>
+on the task at hand because you can’t undo. Only the user can decide when their work is finished and they must make the choice <br>
+of when to print because they will only ever get one opportunity. This is a choice that artists have always had to make and it <br>
+remains a crucial element in the production of fine art, that is, making the decision that the work is finished.</p>
+<b>Tools and Technologies</b>
+  <p> Fundamental to this project is the recent release of the Senseg ELFIAC Flexible Actuator which is a haptic feedback actuator.<br>
+A screen that gives tactile feedback. Senseg claim their product will, "deliver precision tactile sensations that mimic physical <br>
+textures, edges, and contours without distracting device vibration." see <a href="https://www.senseg.com/tixel/">Senseg website</a> &
+<a href="https://www.embedded-computing.com/news/senseg-elfiac-flexible-actuator-technology-uses-roll-to-roll-manufacturing">ELFIAC
+  article</a><br>
+As far as I understand this is achieved through the difference in electrical potential between the finger and the screen and<br>
+thus might also be achieved by creating an electrically charged brush with that same difference in electrical potential.<br>
+I am unsure as to how much of the software already exists but there are other features that I expect will need to be coded.</p>
+<b>Skills Required </b>
+<ol>
+  <li>Electrical Engineer to advise on the potential for developing the brush to interface with the screen.
+    <li>Access to an ELFIAC screen
+      <li>A software developer to write the code for the painting program.
+        <li>Advice on mass production of brushes
+        </ol>
+  <p>The articles I read about the ELFIAC screen were only published at the start of September so I don't know to what degree<br>
+the product is commercially available but the brushes would definitely need to be developed to interact with ELFIAC <br>
+screen. I don't know a lot about coding but I imagine much of the software needed for this project would need to be written <br>
+from scratch as the software that already exists would be proprietary software. </p>
+<b>Outcome</b>
+  <p> If this project is successful a new and unique product will enter the market that will appeal to professional, commercial,<br>
+student and amateur artists as well as many educational institutions, the graphic design industry and the fashion industry<br>
+to create a much more immersive experience for the user. It will make use of an emerging technology to help it grab a foot <br>
+hold from where the technology will stand a greater chance of being adapted for use with other groups such as the blind. </p>
+
+</body>
+</html>
